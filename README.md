@@ -1,2 +1,4 @@
 # Assigment
-First Repository
+First Repository.
+
+This is my first repo for practise purpose.
